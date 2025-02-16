@@ -1,5 +1,7 @@
 # UniSync - VIT Bhopal Digital Community Platform
 
+https://unisyncvit.netlify.app
+
 UniSync is a comprehensive digital community platform designed specifically for VIT Bhopal students. It facilitates seamless interaction, collaboration, and information sharing within the campus community.
 
 ## Features
